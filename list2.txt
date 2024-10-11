@@ -1,5 +1,7 @@
-My second lsit/text file of things I like:
+My second list/text file of things I like:
 
 + Sunshine
 + Animals
 + Food
+
+First commit, I fixed typos!
