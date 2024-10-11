@@ -5,3 +5,9 @@ My second list/text file of things I like:
 + Food
 
 First commit, I fixed typos!
+
+Second Commit - Shopping List:
+
++ Cereal
++ Fruit
++ Paper Towels
